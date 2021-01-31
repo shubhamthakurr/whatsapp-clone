@@ -1,0 +1,3 @@
+[submodule "whatsapp-backend"]
+	path = whatsapp-backend
+	url = git@github.com:shubhamthakurr/whatsapp-backend.git
